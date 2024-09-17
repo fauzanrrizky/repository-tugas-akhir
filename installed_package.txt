@@ -2,4 +2,3 @@ OpenAI
 selenium
 webdriver_manager
 plyer
-keyboard
