@@ -2,3 +2,6 @@ OpenAI
 selenium
 webdriver_manager
 plyer
+Levenshtein
+sklearn
+fuzzywuzzy
